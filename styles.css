@@ -1,10 +1,15 @@
 /*  your css code here. If applicable */
+*{
+	margin-top: 0px;
+}
 body{
 	background-color: skyblue;
+	
 }
 .first-para{
 	background-color: black;
 	color: white;
+	
 }
 .sec1{
 	margin-top: 10px;
